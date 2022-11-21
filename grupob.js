@@ -8,7 +8,7 @@ soccer.updateEquipo([{
         perdidos: 0,
         golesfavor: 5,
         golescontra: 1,
-        puntos: 0
+        puntos: 3
     },
     {
         nombre: 'IRAN',
