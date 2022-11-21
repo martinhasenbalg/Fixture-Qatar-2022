@@ -6,7 +6,7 @@ soccer.updateEquipo([{
         ganados: 1,
         empates: 0,
         perdidos: 0,
-        golesfavor: 5,
+        golesfavor: 6,
         golescontra: 1,
         puntos: 3
     },
@@ -17,7 +17,7 @@ soccer.updateEquipo([{
         empates: 0,
         perdidos: 1,
         golesfavor: 1,
-        golescontra: 5,
+        golescontra: 6,
         puntos: 0
         },
     {
