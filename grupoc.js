@@ -22,23 +22,23 @@ soccer.updateEquipo([{
         },
     {
         nombre: 'MEXICO',
-        jugados: 0,
+        jugados: 1,
         ganados: 0,
-        empates: 0,
+        empates: 1,
         perdidos: 0,
         golesfavor: 0,
         golescontra: 0,
-        puntos: 0
+        puntos: 1
     },
     {
         nombre: 'POLONIA',
-        jugados: 0,
+        jugados: 1,
         ganados: 0,
-        empates: 0,
+        empates: 1,
         perdidos: 0,
         golesfavor: 0,
         golescontra: 0,
-        puntos: 0    
+        puntos: 1   
     },
     ]);
         
