@@ -6,9 +6,9 @@ soccer.updateEquipo([{
         ganados: 1,
         empates: 0,
         perdidos: 0,
-        golesfavor: 1,
+        golesfavor: 0,
         golescontra: 0,
-        puntos: 3
+        puntos: 0
     },
     {
         nombre: 'CANADA',
@@ -17,7 +17,7 @@ soccer.updateEquipo([{
         empates: 0,
         perdidos: 1,
         golesfavor: 0,
-        golescontra: 1,
+        golescontra: 0,
         puntos: 0
         },
     {
