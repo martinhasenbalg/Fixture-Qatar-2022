@@ -2,22 +2,22 @@ soccer.addEquipo(['BRASIL', 'SERBIA', 'SUIZA', 'CAMERUN']);
     
 soccer.updateEquipo([{
         nombre: 'BRASIL',
-        jugados: 0,
-        ganados: 0,
+        jugados: 1,
+        ganados: 1,
         empates: 0,
         perdidos: 0,
-        golesfavor: 0,
+        golesfavor: 2,
         golescontra: 0,
-        puntos: 0
+        puntos: 3
     },
     {
         nombre: 'SERBIA',
-        jugados: 0,
+        jugados: 1,
         ganados: 0,
         empates: 0,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 0,
-        golescontra: 0,
+        golescontra: 2,
         puntos: 0
         },
     {
