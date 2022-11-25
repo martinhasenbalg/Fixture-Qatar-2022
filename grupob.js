@@ -2,13 +2,13 @@ soccer.addEquipo(['INGLATERRA', 'IRAN', 'ESTADOS UNIDOS', 'GALES']);
     
 soccer.updateEquipo([{
         nombre: 'INGLATERRA',
-        jugados: 1,
+        jugados: 2,
         ganados: 1,
-        empates: 0,
+        empates: 1,
         perdidos: 0,
         golesfavor: 6,
         golescontra: 2,
-        puntos: 3
+        puntos: 4
     },
     {
         nombre: 'IRAN',
@@ -22,13 +22,13 @@ soccer.updateEquipo([{
         },
     {
         nombre: 'ESTADOS UNIDOS',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
-        empates: 1,
+        empates: 2,
         perdidos: 0,
         golesfavor: 1,
         golescontra: 1,
-        puntos: 1
+        puntos: 2
     },
     {
         nombre: 'GALES',
