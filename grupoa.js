@@ -12,13 +12,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'ECUADOR',
-        jugados: 1,
+        jugados: 2,
         ganados: 1,
-        empates: 0,
+        empates: 1,
         perdidos: 0,
-        golesfavor: 2,
-        golescontra: 0,
-        puntos: 3
+        golesfavor: 3,
+        golescontra: 1,
+        puntos: 4
         },
     {
         nombre: 'SENEGAL',
@@ -32,13 +32,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'PAISES BAJOS',
-        jugados: 1,
+        jugados: 2,
         ganados: 1,
-        empates: 0,
+        empates: 1,
         perdidos: 0,
-        golesfavor: 2,
-        golescontra: 0,
-        puntos: 3    
+        golesfavor: 3,
+        golescontra: 1,
+        puntos: 4    
     },
     ]);
         
