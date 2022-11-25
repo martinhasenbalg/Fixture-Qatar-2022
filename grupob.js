@@ -12,13 +12,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'IRAN',
-        jugados: 1,
-        ganados: 0,
+        jugados: 2,
+        ganados: 1,
         empates: 0,
         perdidos: 1,
-        golesfavor: 2,
+        golesfavor: 4,
         golescontra: 6,
-        puntos: 0
+        puntos: 3
         },
     {
         nombre: 'ESTADOS UNIDOS',
@@ -32,12 +32,12 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'GALES',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
         empates: 1,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 1,
-        golescontra: 1,
+        golescontra: 3,
         puntos: 1    
     },
     ]);
