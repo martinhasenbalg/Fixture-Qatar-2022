@@ -12,12 +12,12 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'ARABIA SAUDITA',
-        jugados: 1,
+        jugados: 2,
         ganados: 1,
         empates: 0,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 2,
-        golescontra: 1,
+        golescontra: 3,
         puntos: 3
         },
     {
@@ -32,13 +32,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'POLONIA',
-        jugados: 1,
-        ganados: 0,
+        jugados: 2,
+        ganados: 1,
         empates: 1,
         perdidos: 0,
-        golesfavor: 0,
+        golesfavor: 2,
         golescontra: 0,
-        puntos: 1   
+        puntos: 4   
     },
     ]);
         
