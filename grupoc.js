@@ -2,13 +2,13 @@ soccer.addEquipo(['ARGENTINA', 'ARABIA SAUDITA', 'MEXICO', 'POLONIA']);
     
 soccer.updateEquipo([{
         nombre: 'ARGENTINA',
-        jugados: 1,
-        ganados: 0,
+        jugados: 2,
+        ganados: 1,
         empates: 0,
         perdidos: 1,
-        golesfavor: 1,
+        golesfavor: 3,
         golescontra: 2,
-        puntos: 0
+        puntos: 3
     },
     {
         nombre: 'ARABIA SAUDITA',
@@ -22,12 +22,12 @@ soccer.updateEquipo([{
         },
     {
         nombre: 'MEXICO',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
         empates: 1,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 0,
-        golescontra: 0,
+        golescontra: 2,
         puntos: 1
     },
     {
