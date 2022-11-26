@@ -2,13 +2,13 @@ soccer.addEquipo(['FRANCIA', 'AUSTRALIA', 'DINAMARCA', 'TUNEZ']);
     
 soccer.updateEquipo([{
         nombre: 'FRANCIA',
-        jugados: 1,
-        ganados: 1,
+        jugados: 2,
+        ganados: 2,
         empates: 0,
         perdidos: 0,
-        golesfavor: 4,
-        golescontra: 1,
-        puntos: 3
+        golesfavor: 6,
+        golescontra: 2,
+        puntos: 6
     },
     {
         nombre: 'AUSTRALIA',
@@ -22,12 +22,12 @@ soccer.updateEquipo([{
         },
     {
         nombre: 'DINAMARCA',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
         empates: 1,
-        perdidos: 0,
-        golesfavor: 0,
-        golescontra: 0,
+        perdidos: 1,
+        golesfavor: 1,
+        golescontra: 2,
         puntos: 1
     },
     {
