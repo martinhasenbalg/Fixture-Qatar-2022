@@ -12,13 +12,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'COSTA RICA',
-        jugados: 1,
-        ganados: 0,
+        jugados: 2,
+        ganados: 1,
         empates: 0,
         perdidos: 1,
-        golesfavor: 0,
+        golesfavor: 1,
         golescontra: 7,
-        puntos: 0
+        puntos: 3
         },
     {
         nombre: 'ALEMANIA',
@@ -32,12 +32,12 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'JAPON',
-        jugados: 1,
+        jugados: 2,
         ganados: 1,
         empates: 0,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 2,
-        golescontra: 1,
+        golescontra: 2,
         puntos: 3    
     },
     ]);
