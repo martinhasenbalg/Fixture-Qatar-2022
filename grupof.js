@@ -32,13 +32,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'CROACIA',
-        jugados: 1,
-        ganados: 0,
+        jugados: 2,
+        ganados: 1,
         empates: 1,
         perdidos: 0,
         golesfavor: 0,
         golescontra: 0,
-        puntos: 1    
+        puntos: 4    
     },
     ]);
         
