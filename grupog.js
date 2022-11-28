@@ -12,13 +12,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'SERBIA',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
-        empates: 0,
+        empates: 1,
         perdidos: 1,
-        golesfavor: 0,
-        golescontra: 2,
-        puntos: 0
+        golesfavor: 3,
+        golescontra: 5,
+        puntos: 1
         },
     {
         nombre: 'SUIZA',
@@ -32,13 +32,13 @@ soccer.updateEquipo([{
     },
     {
         nombre: 'CAMERUN',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
-        empates: 0,
+        empates: 1,
         perdidos: 1,
-        golesfavor: 0,
-        golescontra: 1,
-        puntos: 0    
+        golesfavor: 3,
+        golescontra: 4,
+        puntos: 1    
     },
     ]);
         
