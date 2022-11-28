@@ -36,8 +36,8 @@ soccer.updateEquipo([{
         ganados: 1,
         empates: 1,
         perdidos: 0,
-        golesfavor: 0,
-        golescontra: 0,
+        golesfavor: 4,
+        golescontra: 1,
         puntos: 4    
     },
     ]);
