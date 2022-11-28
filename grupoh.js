@@ -2,13 +2,13 @@ soccer.addEquipo(['PORTUGAL', 'GHANA', 'URUGUAY', 'COREA DEL SUR']);
     
 soccer.updateEquipo([{
         nombre: 'PORTUGAL',
-        jugados: 1,
-        ganados: 1,
+        jugados: 2,
+        ganados: 2,
         empates: 0,
         perdidos: 0,
-        golesfavor: 3,
+        golesfavor: 5,
         golescontra: 2,
-        puntos: 3
+        puntos: 6
     },
     {
         nombre: 'GHANA',
@@ -22,12 +22,12 @@ soccer.updateEquipo([{
         },
     {
         nombre: 'URUGUAY',
-        jugados: 1,
+        jugados: 2,
         ganados: 0,
         empates: 1,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 0,
-        golescontra: 0,
+        golescontra: 2,
         puntos: 1
     },
     {
