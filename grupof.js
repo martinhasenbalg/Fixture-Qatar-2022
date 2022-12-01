@@ -2,43 +2,43 @@ soccer.addEquipo(['BELGICA', 'CANADA', 'MARRUECOS', 'CROACIA']);
     
 soccer.updateEquipo([{
         nombre: 'BELGICA',
-        jugados: 2,
+        jugados: 3,
         ganados: 1,
-        empates: 0,
+        empates: 1,
         perdidos: 1,
         golesfavor: 1,
         golescontra: 2,
-        puntos: 3
+        puntos: 4
     },
     {
         nombre: 'CANADA',
-        jugados: 2,
+        jugados: 3,
         ganados: 0,
         empates: 0,
-        perdidos: 1,
-        golesfavor: 0,
-        golescontra: 0,
+        perdidos: 3,
+        golesfavor: 2,
+        golescontra: 7,
         puntos: 0
         },
     {
         nombre: 'MARRUECOS',
-        jugados: 2,
-        ganados: 1,
-        empates: 1,
-        perdidos: 0,
-        golesfavor: 2,
-        golescontra: 0,
-        puntos: 4
-    },
-    {
-        nombre: 'CROACIA',
-        jugados: 2,
-        ganados: 1,
+        jugados: 3,
+        ganados: 2,
         empates: 1,
         perdidos: 0,
         golesfavor: 4,
         golescontra: 1,
-        puntos: 4    
+        puntos: 7
+    },
+    {
+        nombre: 'CROACIA',
+        jugados: 3,
+        ganados: 1,
+        empates: 2,
+        perdidos: 0,
+        golesfavor: 4,
+        golescontra: 1,
+        puntos: 5    
     },
     ]);
         
