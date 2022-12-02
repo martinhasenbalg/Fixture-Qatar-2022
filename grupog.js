@@ -2,43 +2,43 @@ soccer.addEquipo(['BRASIL', 'SERBIA', 'SUIZA', 'CAMERUN']);
     
 soccer.updateEquipo([{
         nombre: 'BRASIL',
-        jugados: 2,
+        jugados: 3,
         ganados: 2,
         empates: 0,
-        perdidos: 0,
+        perdidos: 1,
         golesfavor: 3,
-        golescontra: 0,
+        golescontra: 1,
         puntos: 6
     },
     {
         nombre: 'SERBIA',
-        jugados: 2,
+        jugados: 3,
         ganados: 0,
         empates: 1,
-        perdidos: 1,
-        golesfavor: 3,
-        golescontra: 5,
+        perdidos: 2,
+        golesfavor: 5,
+        golescontra: 8,
         puntos: 1
         },
     {
         nombre: 'SUIZA',
-        jugados: 2,
-        ganados: 1,
+        jugados: 3,
+        ganados: 2,
         empates: 0,
         perdidos: 1,
-        golesfavor: 1,
-        golescontra: 1,
-        puntos: 3
+        golesfavor: 4,
+        golescontra: 3,
+        puntos: 6
     },
     {
         nombre: 'CAMERUN',
-        jugados: 2,
-        ganados: 0,
+        jugados: 3,
+        ganados: 1,
         empates: 1,
         perdidos: 1,
-        golesfavor: 3,
+        golesfavor: 4,
         golescontra: 4,
-        puntos: 1    
+        puntos: 4    
     },
     ]);
         
